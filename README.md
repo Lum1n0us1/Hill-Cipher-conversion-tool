@@ -8,11 +8,11 @@
 
 加密时，输入明文、加密矩阵行数和加密矩阵（如下图）
 
-![img](file:///C:\Users\86180\AppData\Roaming\Tencent\Users\1599857578\QQ\WinTemp\RichOle\NPOGD5](T$TDX7_590NPN5P.png)
+![img](https://github.com/shyshy3/Hill-Cipher-conversion-tool/blob/master/explain-pictures/1.png)
 
 然后点击加密，加密时若字符串长度是奇数，会自动在结尾添上一个字母`z`。
 
-![img](file:///C:\Users\86180\AppData\Roaming\Tencent\Users\1599857578\QQ\WinTemp\RichOle\A[H9${$B}[M0J5%K9Z(_9{G.png)
+![img](https://github.com/shyshy3/Hill-Cipher-conversion-tool/blob/master/explain-pictures/2.png)
 
 
 
@@ -20,7 +20,7 @@
 
 解密时，输入密文，点击解密
 
-![img](file:///C:\Users\86180\AppData\Roaming\Tencent\Users\1599857578\QQ\WinTemp\RichOle\I{MNAMUIC3K5HV)GBXQSE0X.png)
+![img](https://github.com/shyshy3/Hill-Cipher-conversion-tool/blob/master/explain-pictures/3.png)
 
 
 
@@ -28,4 +28,4 @@
 
 若加密矩阵不存在逆矩阵，会输出`该矩阵不存在逆矩阵，请重修输入`
 
-![img](file:///C:\Users\86180\AppData\Roaming\Tencent\Users\1599857578\QQ\WinTemp\RichOle\5%3I9N12MG$W3(NJCF4WM`5.png)
+![img](https://github.com/shyshy3/Hill-Cipher-conversion-tool/blob/master/explain-pictures/4.png)
